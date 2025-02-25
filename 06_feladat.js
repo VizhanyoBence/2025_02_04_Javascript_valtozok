@@ -11,3 +11,4 @@ let terulet = Math.PI * d * d;
 let kerulet = 2 * Math.PI * d;
 console.log('Kör kerülete: ' + kerulet)
 console.log('Kör területe: ' + terulet)
+
